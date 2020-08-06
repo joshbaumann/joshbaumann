@@ -1,6 +1,6 @@
 ### Hi there, I'm Josh! 👋
 
-<img alt="Josh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joshbaumann&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark" />
+<img alt="Josh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joshbaumann&hide_border=true&count_private=true&include_all_commits=true&theme=onedark" />
 
 
 <img alt="Josh's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshbaumann&theme=onedark&layout=compact" />
